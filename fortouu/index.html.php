@@ -31,8 +31,6 @@ konten = [
   },
 ];
 
-musik = "musik.mp.4";
-
 /*=========================*/
 DekaTutorial(konten, musik, nomorWhatsapp);
 </script></body></html>
