@@ -30,7 +30,6 @@ konten = [
     ucapan: "i love youuu bub"
   },
 ];
-  
 /*=========================*/
 DekaTutorial(konten, musik, nomorWhatsapp);
 </script></body></html>
