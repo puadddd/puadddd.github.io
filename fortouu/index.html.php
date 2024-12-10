@@ -12,13 +12,26 @@ teksHai = "Hai, ada surat buat kamu nih";
     
 konten = [
   {
-    gambar: "NamaFileGambar/Foto",
-    ucapan: "UcapanKalian",
+    gambar: "sticker1.jpg",
+    ucapan: "halooo sayank",
+  },
+  {
+    gambar: "sticker2.webp",
+    ucapan: "aku kangen kamuu",
+  },
+  {
+    gambar: "sticker1.jpg",
+    ucapan: "makasih udah milih aku",
+  },
+  {
+    gambar: "sticker3.jpg",
+  },
+  {
+    ucapan: "i love youuu bub"
   },
 ];
 
-musik = "musik.mp3";
-nomorWhatsapp = "6285xxx";
+musik = "musik.mp.4";
 
 /*=========================*/
 DekaTutorial(konten, musik, nomorWhatsapp);
